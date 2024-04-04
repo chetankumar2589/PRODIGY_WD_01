@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg_image_1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.bg_image_2{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-trending-blogs-2-img.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+
+
+h1 {
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.button_1 {
+    background-color: #1a2137;
+    color: white;
+    width: 120px;
+    height: 50px;
+    border-width: 0px;
+    border-style: solid;
+}
+.button {
+    background-color: #ffffff00;
+    color:black;
+    width: 13.5em;
+    height: 4.1em;
+    border: #3654ff 0.2em solid;
+    border-radius: 11px;
+    text-align: right;
+    transition: all 0.6s ease;
+  }
+  
+  .button:hover {
+    background-color: #3654ff;
+    cursor: pointer;
+  }
+  
+  .button svg {
+    width: 1.2em;
+    margin: 0.1em 0.1em 5em;
+    position: absolute;
+    display: flex;
+    transition: all 0.6s ease;
+  }
+  
+  .button:hover svg {
+    transform: translateX(5px);
+  }
+  
+  .text {
+    margin: 0 1.5em
+  }
+
+
+
+#options_1 {
+    color: black;
+}
+
+#options_2 {
+    color: black;
+}
+
+#options_3 {
+    color: black;
+}
+
+#options_4 {
+    color: black;
+}
+
+.image_1 {
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+}
+.vr_background {
+    background-color: white;
+    color: #7b8794;
+}
+
+h1 {
+    color: #1f2933;
+    font-style: italic;
+}
+
+.image1 {
+    height: 50px;
+    width: 50px;
+
+}
+
+.highlight {
+    font-weight: bold;
+    font-style: italic;
+    color: #1f2933;
+}
+
+#center1 {
+    text-align: center;
+}
